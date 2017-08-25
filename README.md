@@ -1,5 +1,11 @@
 # Trivial Exchange - fork of Ether Delta smart contract
 
+Potential difference proposals:
+
+- Lack of transaction fee
+- Time dependent validity of Tokens
+- Simplified Token exchange options
+
 ## Installation
 
 - Install Dependencies: `npm install`
