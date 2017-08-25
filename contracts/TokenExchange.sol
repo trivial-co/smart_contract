@@ -1,8 +1,8 @@
 pragma solidity ^0.4.11;
 
-import "lib/SafeMath.sol";
-import "lib/Token.sol";
-import "lib/AccountLevels.sol";
+import "./lib/SafeMath.sol";
+import "./lib/Token.sol";
+import "./lib/AccountLevels.sol";
 
 contract TokenExchange is SafeMath {
     address public admin; //the admin address
