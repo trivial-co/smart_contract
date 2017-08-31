@@ -1,5 +1,15 @@
 # Trivial Exchange - fork of Ether Delta smart contract
 
+Depreciated! Fork will no longer be continued.
+
+Already done:
+
+- Port contract to Truffle framework
+
+To do:
+
+- Port tests to Truffle framework
+
 Potential difference proposals:
 
 - Lack of transaction fee
